@@ -1,4 +1,4 @@
-# Lens Raffle
+# Dao Raffle
 A raffle module for the lens protocol.
 
 ## Installation:
